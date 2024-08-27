@@ -1,3 +1,6 @@
+![Profile card](https://github.com/user-attachments/assets/9af789ee-ac4b-49f7-8bef-521445144dd9)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
